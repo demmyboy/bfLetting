@@ -2185,7 +2185,7 @@ h3.featured-price {
 /* Our Services */
 
 #services-section {
-    background-image: url("/img/servicesbackgroundInPixio.JPG");
+    background-image: url("../img/servicesbackgroundInPixio.JPG");
 }
 
 .box {
