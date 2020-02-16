@@ -1271,7 +1271,7 @@ h3.featured-price {
     padding-bottom: 1rem;
     padding-top: 4rem;
     font-family: 'Baskervville', serif;
-    margin-top: 5rem;
+    /* margin-top: 5rem; */
     color: #fff;
 }
 
@@ -1433,8 +1433,8 @@ h3.featured-price {
         ;
     }
     .dropdown-item {
-        color: #fff !important;
-        font-size: 0.8rem !important;
+        color: #000 !important;
+        font-size: 1.0rem !important;
     }
 }
 
@@ -1489,7 +1489,19 @@ h3.featured-price {
     }
     .dropdown-item.active,
     .dropdown-item:active {
-        background-color: #fff;
+        background-color: #000;
+    }
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+
+@media only screen and (max-width: 1200px) {
+    .d-lg-block {
+        font-size: 13px;
+    }
+    .navbar-brand img {
+        height: 3.5rem;
     }
 }
 
