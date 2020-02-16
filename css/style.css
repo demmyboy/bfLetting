@@ -1487,6 +1487,10 @@ h3.featured-price {
         color: #000 !important;
         font-size: 1.0rem !important;
     }
+    .dropdown-item.active,
+    .dropdown-item:active {
+        background-color: #fff;
+    }
 }
 
 
