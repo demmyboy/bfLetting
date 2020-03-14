@@ -387,7 +387,7 @@ h5,
 
 .site-navbar .site-navigation .site-menu .active {
     color: #d0b336 !important;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .site-navbar .site-navigation .site-menu a {
@@ -600,7 +600,7 @@ h5,
 
 .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo a {
     display: inline-block;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo a img {
